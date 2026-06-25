@@ -7,8 +7,8 @@ Install dependencies using the following command:
 `pip install -r requirements.txt`  
 
 ## Run
-Run using the following command:
-`jupyter lab .`
+Run using the following command:  
+`jupyter lab .`  
 Note that in order to run this command you will need to already have installed jupyter-lab as a dependency
 
 ## Export
